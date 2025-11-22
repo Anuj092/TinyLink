@@ -2,6 +2,8 @@
 
 A modern URL shortener built with Next.js, TypeScript, and Tailwind CSS. Create short links, track clicks, and manage your URLs with ease.
 
+# Deployed Link - https://tinylink-xzjt.onrender.com/
+
 ## Features
 
 - ✨ Create short links with custom or auto-generated codes
