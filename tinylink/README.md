@@ -19,7 +19,7 @@ A modern URL shortener built with Next.js, TypeScript, and Tailwind CSS. Create 
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **Database**: PostgreSQL (Neon)
-- **Deployment**: Vercel
+- **Deployment**: Render
 
 ## Getting Started
 
